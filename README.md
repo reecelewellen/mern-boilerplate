@@ -19,6 +19,8 @@
 
 __*best*__ $ npm run dev
 
+* dev runs both api:server and client:start using concurrently
+
 ----
 
 ##### Version 1.0.0
